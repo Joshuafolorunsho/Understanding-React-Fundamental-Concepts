@@ -1,0 +1,11 @@
+label {
+   display: block;
+}
+
+button {
+   cursor: pointer;
+   padding: 7px 15px;
+   background-color: #333;
+   color: #fff;
+   border: none;
+}
